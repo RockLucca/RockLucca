@@ -1,111 +1,126 @@
-# 👋 Olá, eu sou Lucca T. Bordim
+# 🤘 Hi, I'm Lucca T. Bordim
 
 <div align="center">
 
 ### 💻 Software Developer | 🎮 Game Development | 🌐 Web Development
 
-Transformando ideias em software e experiências interativas.
+Building software, exploring ideas, and creating interactive experiences.
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Sou bacharel em Ciência da Computação pela UTFPR - Campus Campo Mourão e apaixonado por desenvolvimento de software, tecnologia e resolução de problemas.
+I hold a Bachelor's degree in Computer Science from UTFPR – Campo Mourão Campus and have a strong passion for software development, technology, and problem-solving.
 
-Durante minha formação participei de projetos acadêmicos e de extensão voltados ao desenvolvimento de sistemas e jogos digitais, incluindo atuação como bolsista em um projeto de desenvolvimento de um jogo promocional institucional.
+During my academic journey, I participated in academic and extension projects focused on software development and digital games, including working as a scholarship student on the development of an institutional promotional game.
 
-Atualmente busco aprimorar minhas habilidades em desenvolvimento backend, aplicações web, integração de sistemas e desenvolvimento de jogos, sempre explorando novas tecnologias e boas práticas de engenharia de software.
+I am currently focused on improving my skills in backend development, web applications, systems integration, and game development while continuously exploring new technologies and software engineering best practices.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
-### Linguagens
+### Programming Languages
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Banco de Dados
+### Game Development
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+### Databases
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### Desenvolvimento
+### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/API_REST-02569B?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-### Game Development
+---
 
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+## 🎯 Areas of Interest
+
+- Game Development
+- Backend Development
+- APIs & Systems Integration
+- Web Development
+- Databases
+- Software Architecture
+- Automation Tools
 
 ---
 
-## 🎯 Áreas de Interesse
+## 📌 Featured Projects
 
-- Desenvolvimento Backend
-- APIs e Integrações
-- Desenvolvimento Web
-- Banco de Dados
-- Arquitetura de Software
-- Desenvolvimento de Jogos
-- Ferramentas de Automação
+### 🎮 Game Development
 
----
+Projects involving gameplay systems, game mechanics, and interactive experiences built with Godot Engine.
 
-## 📌 Projetos em Destaque
+### 🌐 Web Applications
 
-### 🎮 Desenvolvimento de Jogos
-Projetos envolvendo gameplay, mecânicas de jogo e sistemas interativos utilizando Godot Engine.
+Projects focused on web development, API integration, and software solutions.
 
-### 🌐 Aplicações Web
-Projetos focados em desenvolvimento web, integração de sistemas e APIs.
+### 🗄️ Database Systems
 
-### 🗄️ Banco de Dados
-Modelagem, consultas SQL e integração com aplicações corporativas.
+Database modeling, SQL development, and integration with business applications.
 
-### ⚙️ Automação e Integrações
-Soluções voltadas à automação de processos e integração entre sistemas.
+### ⚙️ Automation & Integration
+
+Solutions focused on process automation and system integration.
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RockLucca&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RockLucca&layout=compact&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RockLucca&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 💡 Atualmente estudando
+## ⚡ Contribution Activity
 
-- Arquitetura de Software
-- Desenvolvimento de APIs
-- Integração entre sistemas
-- Desenvolvimento de Jogos
-- Boas práticas de Engenharia de Software
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RockLucca&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📫 Contato
+## 💡 Currently Learning
 
-💼 LinkedIn: rocklucca
+- Software Architecture
+- API Development
+- Systems Integration
+- Game Development
+- Software Engineering Best Practices
 
-📧 E-mail: luccatbordim@gmail.com
+---
+
+## 📫 Contact
+
+💼 LinkedIn: [rocklucca](https://www.linkedin.com/in/rocklucca/)
+
+📧 Email: luccatbordim@gmail.com
 
 ---
 
 <div align="center">
 
-"Technology is best when it brings people together."
+*"Technology is best when it brings people together."*
 
 </div>
